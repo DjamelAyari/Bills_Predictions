@@ -1,5 +1,5 @@
 adjustText==0.7.3
-aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
+#aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
 aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 anaconda-client==1.10.0
