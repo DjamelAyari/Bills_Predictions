@@ -1,0 +1,21 @@
+p { text-align: center }
+h1 { text-align: center }
+h2 { text-align: center }
+
+input[type=file] {
+    padding:5px 15px;
+	background:#ccc;
+    border:2px solid rgb(233, 19, 19); 
+	cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+button[type=submit] {
+    padding:5px 15px; 
+    background:#ccc; 
+    border:2px solid rgb(233, 19, 19);
+    cursor:pointer;
+    -webkit-border-radius: 5px;
+    border-radius: 5px; 
+}

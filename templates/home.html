@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block head %} 
+<title>Page d'accueil</title>
+
+{% endblock %}
+
+{% block body %}
+
+<h1>Bienvenue l'application du projet 10</h1>
+<h2>Application de détection de faux billets</h2>
+
+<p> Insert your CSV file and then download the Result
+<form action="" method="POST" enctype="multipart/form-data">
+    <input type="file" name="file" class="btn btn-block"/>
+    </br>
+    </br>
+    <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+</form>
+
+<br>
+
+    {{ predictions }}
+
+{% endblock %}
