@@ -81,7 +81,7 @@ squarify==0.4.3
 statsmodels==0.13.2
 strsimpy==0.2.1
 tables==3.6.1
-#TBB==0.2
+TBB==0.2
 umap-learn==0.5.3
 webencodings==0.5.1
 win-unicode-console==0.5
