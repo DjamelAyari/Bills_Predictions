@@ -1,5 +1,5 @@
 adjustText==0.7.3
-anaconda-client==1.10.0
+#anaconda-client==1.10.0
 anaconda-navigator==2.2.0
 appdirs==1.4.4
 atomicwrites==1.4.0
