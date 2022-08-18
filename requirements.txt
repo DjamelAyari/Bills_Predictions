@@ -71,7 +71,7 @@ pyreadstat==1.1.7
 pytest==7.1.2
 python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.2.4
-pywin32==302
+#pywin32==302
 PyYAML==6.0
 queuelib==1.5.0
 scikit-learn-extra==0.2.0
