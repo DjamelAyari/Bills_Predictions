@@ -18,7 +18,7 @@ comtypes==1.1.10
 constantly==15.1.0
 cssselect==1.1.0
 cytoolz==0.11.0
-daal4py==2021.5.0
+#daal4py==2021.5.0
 dash==2.3.1
 dash-bootstrap-components==1.1.0
 dash-colorscales==0.0.4
