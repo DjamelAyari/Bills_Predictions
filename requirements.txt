@@ -76,7 +76,7 @@ PyYAML==6.0
 queuelib==1.5.0
 scikit-learn-extra==0.2.0
 #scikit-learn-intelex==2021.20220215.102710
-sip==4.19.13
+#sip==4.19.13
 squarify==0.4.3
 statsmodels==0.13.2
 strsimpy==0.2.1
