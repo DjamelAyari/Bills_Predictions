@@ -33,7 +33,7 @@ Flask-Compress==1.12
 flask-ngrok==0.0.25
 fonttools==4.25.0
 h5py==3.7.0
-#hdf5==1.10.6
+hdf5==1.10.6
 inflection==0.5.1
 joblib==1.1.0
 jupyter-contrib-core==0.3.3
